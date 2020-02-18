@@ -77,6 +77,11 @@ This is a traning example for the Rwanda Ether community to share subcon works.
 
 If you have any question, please add below. It will be also counted as 1 commit. 
 
- * Q1:
+ * Q1: if(trust back)
+        ->Let's resume
+        else
+        ->please forgive
+        endif
  * Q2:
+ 
 
